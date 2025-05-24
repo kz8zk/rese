@@ -33,7 +33,7 @@
 
 # 環境構築　　
 Dockerビルド  
-　1.　```git clone git@github.com:kz8zk/atte.git```  
+　1.　```git clone git@github.com:kz8zk/rese.git```  
 　2.　DockerDesktopを立ち上げる  
 　3.　```docker-compose up -d --build```
 
